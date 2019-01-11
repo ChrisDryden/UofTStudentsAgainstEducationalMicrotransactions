@@ -9,3 +9,4 @@ If you do not know how to submit a pull request, you can submit a class to [this
 | Class | Professor | Details | Link to Syllabus|
 |---------|------------------|------------| ----- |
 |ESS205|Miriam Diamond|64$ Mindtap Subscription| [Syllabus](add-link-here) |
+|ECO105|Avi Cohen|$120 MyEconLab w/o textbook; $155.75 w/ digital textbook||

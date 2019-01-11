@@ -9,3 +9,8 @@ If you do not know how to submit a pull request, you can submit a class to [this
 | Class | Professor | Details | Link to Syllabus|
 |---------|------------------|------------| ----- |
 |ESS205|Miriam Diamond|64$ Mindtap Subscription| [Syllabus](add-link-here) |
+|ECO105|Avi Cohen|$120 MyEconLab w/o textbook; $155.75 w/ digital textbook||
+|RSM100|Michael Khan| TopHat, $26 per term, $38 per year|
+|MAT135|Sarah Mayes-Tang| Tophat, $26 per term, $38 per year|
+|MAT136|Sarah Mayes-Tang|	Tophat, $26 per term, $38 per year|
+|MAT223|Jason Siefken|	Tophat, $26 per term, $38 per year|

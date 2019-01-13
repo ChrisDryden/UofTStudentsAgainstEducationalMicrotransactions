@@ -28,9 +28,9 @@ If you do not know how to submit a pull request, you can submit a class to [this
 |RSM230|David Goldreich|	WileyPLUS|
 |RSM100|Michael Khan|	Pearson's MyWritingLab|
 |RSM220|Baohua Xin|	WileyPLUS|
-|RSM222|Amy Kwan|	Connect|
-|RSM324|Alex Edwards|	Connect|
-|RSM424|Scott Douglas|	Connect|
+|RSM222|Amy Kwan|	Connect 99$|
+|RSM324|Alex Edwards|	Connect 99$|
+|RSM424|Scott Douglas|	Connect 99$|
 |PSY201|Molly Metz|	Mindtap| [Syllabus](https://drive.google.com/file/d/14lKW9hM_l7SV0QnaAqRDlHfajftd5YEz/view?usp=sharing)
 |HPS210|Brian Baigrie|	TopHat subscription. $66| 
 |ECO206|Kripa Freitas|	TopHat and MyEconLab|[Syllabus](https://www.economics.utoronto.ca/index.php/index/teaching/downloadCourseOutline/4233/83441)

@@ -1,4 +1,7 @@
 
+# MAT classes (Mathematics Faculty)
+
+
 | Class | Professor | Item Details | Item Cost | Course Enrollment | Total Cost |Link to Syllabus|
 |-------|-----------|--------------| --------- | ----------------- | ---------- | -------------- | 
 | MAT135| T Janisse, V Chiche-Lapierre, C Su| MULTI-TERM Webassign for Stewart's Calculus: Early Transcendentals 8e (10 MTHS access) | 110 | 548 | 60280 |

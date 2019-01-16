@@ -5,7 +5,7 @@ Ideally the list will be in a similar fashion to the crowdsourced [toronto-tech-
 
 # Links to different faculty
 
-[Mathematics MAT](faculties/mat.md)
+[Mathematics MAT](faculty/MAT.md)
 
 If you do not know how to submit a pull request, you can submit a class to [this form](https://goo.gl/forms/UHPLS4AiTN5967i82). All of the responses will be catalogued in [this spreadsheet](https://docs.google.com/spreadsheets/d/1-cekdm6TQVJycQI1bHXJs3eHSkFGf8lgeRyPn0NUM_k/edit?usp=sharing).
 # Classes that Include Microtransactions

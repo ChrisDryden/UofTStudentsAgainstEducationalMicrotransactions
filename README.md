@@ -10,6 +10,40 @@ Ideally the list will be in a similar fashion to the crowdsourced [toronto-tech-
 [ECO - Economics](faculty/ECO.md)
 
 If you do not know how to submit a pull request, you can submit a class to [this form](https://goo.gl/forms/UHPLS4AiTN5967i82). All of the responses will be catalogued in [this spreadsheet](https://docs.google.com/spreadsheets/d/1-cekdm6TQVJycQI1bHXJs3eHSkFGf8lgeRyPn0NUM_k/edit?usp=sharing).
+
+# TopHat Winter 2019
+
+| Course Code   | Lecturers                                                      |   Class Size |   Cost |   Total Cost |
+|---------------|----------------------------------------------------------------|--------------|--------|--------------|
+| STA305        | M Ebden,M Ebden                                                |          552 |     28 |        15456 |
+| STA107        | S Caetano,A Weir,D Yu                                          |          620 |     28 |        17360 |
+| STA305        | M Ebden,M Ebden                                                |          552 |     28 |        15456 |
+| STA258        | A Weir,J Dedic                                                 |          187 |     28 |         5236 |
+| RSM100        | M Khan                                                         |           76 |     28 |         2128 |
+| PSY270        | C Burton                                                       |          188 |     28 |         5264 |
+| PSY240        | T Paterson                                                     |          188 |     28 |         5264 |
+| IMM350        | L Clemenza T Mallevaey                                         |          307 |     28 |         8596 |
+| MSE217        | G Azimi                                                        |           47 |     28 |         1316 |
+| PSY280        | M Mack                                                         |          188 |     28 |         5264 |
+| PSY280        | B Beston                                                       |          150 |     28 |         4200 |
+| APM466        | L Seco,L Seco                                                  |          127 |     28 |         3556 |
+| MAT187        | B Brando Albino Galvao de S S Cohen                            |          782 |     28 |        21896 |
+| PSYC57        | C Hutcherson                                                   |          100 |     28 |         2800 |
+| Psy290        | B Beston                                                       |          250 |     28 |         7000 |
+| CHM242        | J Matejovic                                                    |           75 |     28 |         2100 |
+| IMM250        | L Clemenza J Gommerman D Philpott                              |         1031 |     28 |        28868 |
+| LINA02        | S Moghaddam                                                    |          200 |     28 |         5600 |
+| CRI350        | M Light                                                        |           97 |     28 |         2716 |
+| MSE101        | S Ramsay                                                       |          283 |     28 |         7924 |
+| HPS211        | B Baigrie                                                      |          154 |     28 |         4312 |
+| CHMB41        | S Dalili                                                       |          142 |     28 |         3976 |
+| NROC61        | R Ito Lee                                                      |          120 |     28 |         3360 |
+| CHE311        | R Mehta                                                        |           92 |     28 |         2576 |
+| PSY220        | A Waggoner Denton,J Plaks                                      |          350 |     28 |         9800 |
+| GGR314        | L Harvey                                                       |          120 |     28 |         3360 |
+| PSY270        | C Burton                                                       |          188 |     28 |         5264 |
+
+
 # Classes that Include Microtransactions
 
 

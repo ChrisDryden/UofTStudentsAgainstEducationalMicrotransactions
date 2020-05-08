@@ -9,6 +9,8 @@ Ideally the list will be in a similar fashion to the crowdsourced [toronto-tech-
 
 [ECO - Economics](faculty/ECO.md)
 
+[ENG - Engineering](faculty/ENG.md)
+
 If you do not know how to submit a pull request, you can submit a class to [this form](https://goo.gl/forms/UHPLS4AiTN5967i82). All of the responses will be catalogued in [this spreadsheet](https://docs.google.com/spreadsheets/d/1-cekdm6TQVJycQI1bHXJs3eHSkFGf8lgeRyPn0NUM_k/edit?usp=sharing).
 
 # TopHat Winter 2019
@@ -89,3 +91,4 @@ If you do not know how to submit a pull request, you can submit a class to [this
 |MIE100|Anthony Sinclair, Leslie Sinclair, Pierre Sullivan, Lidan You, EdmondYoung|	MasteringEngineering|[Syllabus](https://inst-fs-yul-prod.inscloudgate.net/files/b93a40bf-328b-4289-9b79-07629ffb809c/mie100+course+outline+winter+2019+rev+707.docx?download=1&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzUxMiJ9.eyJpYXQiOjE1NDczNDA0MjEsInVzZXJfaWQiOiIxMTgzNDAwMDAwMDAxODQ3NTkiLCJyZXNvdXJjZSI6Ii9maWxlcy9iOTNhNDBiZi0zMjhiLTQyODktOWI3OS0wNzYyOWZmYjgwOWMvbWllMTAwK2NvdXJzZStvdXRsaW5lK3dpbnRlcisyMDE5K3Jldis3MDcuZG9jeCIsImhvc3QiOiJxLnV0b3JvbnRvLmNhIiwiZXhwIjoxNTQ3NDI2ODIxfQ.NQlLzkqvKxtxeLuOhFChF229Re6wdaZrF01Xj-yULt0Nn0KDKzVWIsz5GjmbNKlUqZTmK-zPV1NwRCppYJmp4g)
 |ECE110|Belinda Wang|, Mohammad Mojahedi, Berj Bardakjian, Paul Yoo	WileyPLUS|[Syllabus](https://q.utoronto.ca/courses/70863/files/2336653/download?download_frd=1)
 |APS160|Michael Seica	|MasteringEngineering|[Lecture Video](https://www.youtube.com/watch?v=FYz9S5xwJyo)|
+|CHE223| Alison McGuigan | Required WileyPlus| [Syllabus](assets/syllabi) 
